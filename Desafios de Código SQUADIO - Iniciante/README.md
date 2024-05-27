@@ -1,7 +1,5 @@
 # Desafios de Código SQUADIO - Iniciante
 
----
-
 ## 1 - A Aventura do Explorador
 
 ### Desafio
@@ -21,8 +19,6 @@ A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectiva
 | 2 | Explorador: 1 passo <br> Explorador: 2 passos |
 | 3 | Explorador: 1 passo <br> Explorador: 2 passos <br> Explorador: 3 passos |
 | 0 | Nenhum passo dado na floresta. |
-
----
 
 ## 2 - Lista de itens
 
@@ -50,8 +46,6 @@ A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectiva
 | Espada \ Escudo <br> Poção | Lista de itens: <br> - Espada <br> - Escudo <br> - Poção |
 | Gema <br> Flecha <br> Capa | Lista de itens: <br> - Gema <br> - Flecha <br> - Capa |
 | Masterball <br> Potion <br> Elixir | Lista de itens: <br> - Masterball <br> - Potion <br> - Elixir |
-
----
 
 ## 3 - rmazenamento de Dados é Vida!
 
